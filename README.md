@@ -21,7 +21,7 @@ Panel principal con lista de licitaciones, principales datos y estado. Además i
 
 ### Vista expandida de licitación
 ![VistaExpandida](images/expand.png)  
-Vista expandida de una licitación donde se pueden observar todos los datos de la misma. Además permite cumplimentar todos los datos de las ofertas (Informe resumen, Costes y Detalle costes Indirectos) y posteriormente exportarlo en una plantilla propia de la empresa en Excel.
+Vista expandida de una licitación donde se pueden observar todos los datos de la misma. Incluye un gestor de documentos para poder adjuntar los documentos oportunos de cada licitación. Además permite cumplimentar todos los datos de las ofertas (Informe resumen, Costes y Detalle costes Indirectos) y posteriormente exportarlo en una plantilla propia de la empresa en Excel.
 
 ### Calendario de licitaciones
 ![Calendario](images/calendario.png)  
